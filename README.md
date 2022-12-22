@@ -25,3 +25,7 @@ There are several things which I needed for most of my React applications, which
 ## How to use
 
 When creating a new project based on this template, there are a few _TODO's_ in which content should be adjusted.
+```console
+npm install
+npm run dev
+```
